@@ -32,3 +32,7 @@ yarn-error.log*
 
 # generated files
 /public/themes
+
+# others
+yarn.lock
+.vscode
